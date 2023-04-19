@@ -39,7 +39,7 @@
   }
 
   .task-row-wrapper {
-    display: flex
+    display: flex;
   }
 
   .task-list {
@@ -134,7 +134,7 @@
   }
 
   .task-list__item .task {
-    width: 226px
+    width: 226px;
   }
 
   .task-list__btn-image {
@@ -155,7 +155,7 @@
 
   /* Edit Task */
   .task-list__item .task {
-    display: none
+    display: none;
   }
 
   .task-list__item.edit-mode .task {
